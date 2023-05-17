@@ -1,11 +1,3 @@
-/* ===================================================================
-    
-    Author          : Valid Theme
-    Template Name   : Edukat - Education and LMS Template
-    Version         : 1.0
-    
-* ================================================================= */
-
 (function($) {
     "use strict";
 
