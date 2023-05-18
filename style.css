@@ -30,7 +30,7 @@ body {
   font-weight: 400;
   line-height: 24px;
   overflow-x: hidden;
-  background-color: #ffffff;
+  background-color: #fae5bf;
   color: #666666;
 }
 
@@ -7486,7 +7486,7 @@ footer .social li a {
 .footer-bottom {
   padding: 30px 0;
   border-top: 1px solid #e7e7e7;
-  background: #fafafa;
+  background: #ffcc00;
 }
 
 footer.bg-dark .footer-bottom {
