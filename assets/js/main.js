@@ -313,7 +313,7 @@
          ===============================================*/
         $('.advisor-carousel').owlCarousel({
             loop: true,
-            nav: true,
+            nav: false,
             margin:10,
             dots: true,
             autoplay: true,
